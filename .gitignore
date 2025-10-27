@@ -1,0 +1,1213 @@
+.DS_Store
+__pycache__/utils_estimate_num_images.cpython-312.pyc
+__pycache__/utils_functions.cpython-312.pyc
+__pycache__/utils_make_patch_auto.cpython-312.pyc
+__pycache__/utils_make_patch_on_images.cpython-312.pyc
+dataset/SEC/test/SEC-Subtype_Ia/14811 - section 1.jpg
+dataset/SEC/test/SEC-Subtype_Ia/23802 - section 1.jpg
+dataset/SEC/test/SEC-Subtype_Ia/28585 - section 1.jpg
+dataset/SEC/test/SEC-Subtype_Ia/4966 - section 2.jpg
+dataset/SEC/test/SEC-Subtype_Ia/8234 - section 3.jpg
+dataset/SEC/test/SEC-Subtype_Ia/mask/14811 - section 1.png
+dataset/SEC/test/SEC-Subtype_Ia/mask/23802 - section 1.png
+dataset/SEC/test/SEC-Subtype_Ia/mask/28585 - section 1.png
+dataset/SEC/test/SEC-Subtype_Ia/mask/4966 - section 2.png
+dataset/SEC/test/SEC-Subtype_Ia/mask/8234 - section 3.png
+dataset/SEC/test/SEC-Subtype_IIa/mask/SR_18197 - section 1.png
+dataset/SEC/test/SEC-Subtype_IIa/mask/SR_18197 - section 3.png
+dataset/SEC/test/SEC-Subtype_IIa/mask/SR_19379 - section 1.png
+dataset/SEC/test/SEC-Subtype_IIa/mask/SR_22455 - section 1.png
+dataset/SEC/test/SEC-Subtype_IIa/mask/SR_23811 - section 5.png
+dataset/SEC/test/SEC-Subtype_IIa/SR_18197 - section 1.jpg
+dataset/SEC/test/SEC-Subtype_IIa/SR_18197 - section 3.jpg
+dataset/SEC/test/SEC-Subtype_IIa/SR_19379 - section 1.jpg
+dataset/SEC/test/SEC-Subtype_IIa/SR_22455 - section 1.jpg
+dataset/SEC/test/SEC-Subtype_IIa/SR_23811 - section 5.jpg
+dataset/SEC/test/SEC-Subtype_IIIa/13216 - section 2.jpg
+dataset/SEC/test/SEC-Subtype_IIIa/16927 - section 1.jpg
+dataset/SEC/test/SEC-Subtype_IIIa/27385 - section 1.jpg
+dataset/SEC/test/SEC-Subtype_IIIa/mask/13216 - section 2.png
+dataset/SEC/test/SEC-Subtype_IIIa/mask/16927 - section 1.png
+dataset/SEC/test/SEC-Subtype_IIIa/mask/27385 - section 1.png
+dataset/SEC/test/SEC-Subtype_IIIa/mask/SR_11459 - section 1.png
+dataset/SEC/test/SEC-Subtype_IIIa/mask/SR_17853 - section 1.png
+dataset/SEC/test/SEC-Subtype_IIIa/SR_11459 - section 1.jpg
+dataset/SEC/test/SEC-Subtype_IIIa/SR_17853 - section 1.jpg
+dataset/SEC/test/SEC-Subtype_IVc/10958 - section 1.jpg
+dataset/SEC/test/SEC-Subtype_IVc/13149 - section 1.jpg
+dataset/SEC/test/SEC-Subtype_IVc/29182 - section 1.jpg
+dataset/SEC/test/SEC-Subtype_IVc/5904 - section 1.jpg
+dataset/SEC/test/SEC-Subtype_IVc/7041 - section 1.jpg
+dataset/SEC/test/SEC-Subtype_IVc/mask/10958 - section 1.png
+dataset/SEC/test/SEC-Subtype_IVc/mask/13149 - section 1.png
+dataset/SEC/test/SEC-Subtype_IVc/mask/29182 - section 1.png
+dataset/SEC/test/SEC-Subtype_IVc/mask/5904 - section 1.png
+dataset/SEC/test/SEC-Subtype_IVc/mask/7041 - section 1.png
+dataset/SEC/test/SEC-Subtype_IVd/34256 - section 1.jpg
+dataset/SEC/test/SEC-Subtype_IVd/34256 - section 2.jpg
+dataset/SEC/test/SEC-Subtype_IVd/35424 - section 1.jpg
+dataset/SEC/test/SEC-Subtype_IVd/35424 - section 2.jpg
+dataset/SEC/test/SEC-Subtype_IVd/Endo_SEC_IVd_01_x4.png
+dataset/SEC/test/SEC-Subtype_IVd/mask/34256 - section 1.png
+dataset/SEC/test/SEC-Subtype_IVd/mask/34256 - section 2.png
+dataset/SEC/test/SEC-Subtype_IVd/mask/35424 - section 1.png
+dataset/SEC/test/SEC-Subtype_IVd/mask/35424 - section 2.png
+dataset/SEC/test/SEC-Subtype_IVd/mask/Endo_SEC_IVd_01_x4.png
+dataset/SEC/test/SEC-Subtype_Va/mask/SR_10538 - section 1.png
+dataset/SEC/test/SEC-Subtype_Va/mask/SR_13016 - section 1.png
+dataset/SEC/test/SEC-Subtype_Va/mask/SR_14221 - section 1.png
+dataset/SEC/test/SEC-Subtype_Va/mask/SR_14820 - section 1.png
+dataset/SEC/test/SEC-Subtype_Va/mask/SR_3597 - section 1.png
+dataset/SEC/test/SEC-Subtype_Va/SR_10538 - section 1.jpg
+dataset/SEC/test/SEC-Subtype_Va/SR_13016 - section 1.jpg
+dataset/SEC/test/SEC-Subtype_Va/SR_14221 - section 1.jpg
+dataset/SEC/test/SEC-Subtype_Va/SR_14820 - section 1.jpg
+dataset/SEC/test/SEC-Subtype_Va/SR_3597 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_Ia/14811 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_Ia/20135 - section1.jpg
+dataset/SEC/train/SEC-Subtype_Ia/23099 - section 3.jpg
+dataset/SEC/train/SEC-Subtype_Ia/23802 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_Ia/25962 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_Ia/26319 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_Ia/26319 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_Ia/27671 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_Ia/28585 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_Ia/4966 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_Ia/5093 - section.jpg
+dataset/SEC/train/SEC-Subtype_Ia/6536 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_Ia/6536 - section.jpg
+dataset/SEC/train/SEC-Subtype_Ia/6536 - section3 .jpg
+dataset/SEC/train/SEC-Subtype_Ia/8234 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_Ia/8234 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_Ia/9625 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_Ia/9625 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_Ia/9625 - section 3.jpg
+dataset/SEC/train/SEC-Subtype_Ia/9996 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_Ia/mask/14811 - section 2.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/20135 - section1.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/23099 - section 3.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/23802 - section 2.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/25962 - section 1.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/26319 - section 1.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/26319 - section 2.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/27671 - section 1.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/28585 - section 2.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/4966 - section 1.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/5093 - section.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/6536 - section 2.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/6536 - section.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/6536 - section3 .png
+dataset/SEC/train/SEC-Subtype_Ia/mask/8234 - section 1.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/8234 - section 2.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/9625 - section 1.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/9625 - section 2.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/9625 - section 3.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/9996 - section 1.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/SEC_Ia_01_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/SEC_Ia_02_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/SEC_Ia_03_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/SEC_Ia_04_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/SEC_Ia_05_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/SEC_Ia_06_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/SEC_Ia_07_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/SEC_Ia_08_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/SEC_Ia_09_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/SEC_Ia_10_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/SEC_Ia_11_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/SEC_Ia_12_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/SEC_Ia_13_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/SEC_Ia_14_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/SEC_Ia_15_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/SEC_Ia_16_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/SEC_Ia_17_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/SEC_Ia_18_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/SEC_Ia_19_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/SEC_Ia_20_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/SEC_Ia_21_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/SEC_Ia_22_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/SEC_Ia_23_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/SEC_Ia_24_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/mask/SEC_Ia_25_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/SEC_Ia_01_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/SEC_Ia_02_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/SEC_Ia_03_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/SEC_Ia_04_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/SEC_Ia_05_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/SEC_Ia_06_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/SEC_Ia_07_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/SEC_Ia_08_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/SEC_Ia_09_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/SEC_Ia_10_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/SEC_Ia_11_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/SEC_Ia_12_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/SEC_Ia_13_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/SEC_Ia_14_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/SEC_Ia_15_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/SEC_Ia_16_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/SEC_Ia_17_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/SEC_Ia_18_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/SEC_Ia_19_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/SEC_Ia_20_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/SEC_Ia_21_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/SEC_Ia_22_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/SEC_Ia_23_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/SEC_Ia_24_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Ia/SEC_Ia_25_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IIa/Endo_SEC_IIa_01_x4.png
+dataset/SEC/train/SEC-Subtype_IIa/Endo_SEC_IIa_02_x4.png
+dataset/SEC/train/SEC-Subtype_IIa/Endo_SEC_IIa_03_x4.png
+dataset/SEC/train/SEC-Subtype_IIa/Endo_SEC_IIa_04_x4.png
+dataset/SEC/train/SEC-Subtype_IIa/Endo_SEC_IIa_05_x4.png
+dataset/SEC/train/SEC-Subtype_IIa/Endo_SEC_IIa_06_x4.png
+dataset/SEC/train/SEC-Subtype_IIa/Endo_SEC_IIa_07_x4.png
+dataset/SEC/train/SEC-Subtype_IIa/Endo_SEC_IIa_08_x4.png
+dataset/SEC/train/SEC-Subtype_IIa/Endo_SEC_IIa_09_x4.png
+dataset/SEC/train/SEC-Subtype_IIa/Endo_SEC_IIa_10_x4.png
+dataset/SEC/train/SEC-Subtype_IIa/Endo_SEC_IIa_11_x4.png
+dataset/SEC/train/SEC-Subtype_IIa/Endo_SEC_IIa_12_x4.png
+dataset/SEC/train/SEC-Subtype_IIa/Endo_SEC_IIa_13_x4.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/Endo_SEC_IIa_01_x4.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/Endo_SEC_IIa_02_x4.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/Endo_SEC_IIa_03_x4.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/Endo_SEC_IIa_04_x4.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/Endo_SEC_IIa_05_x4.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/Endo_SEC_IIa_06_x4.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/Endo_SEC_IIa_07_x4.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/Endo_SEC_IIa_08_x4.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/Endo_SEC_IIa_09_x4.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/Endo_SEC_IIa_10_x4.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/Endo_SEC_IIa_11_x4.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/Endo_SEC_IIa_12_x4.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/Endo_SEC_IIa_13_x4.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SEC_IIa_01_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SEC_IIa_02_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SEC_IIa_03_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SEC_IIa_04_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SEC_IIa_05_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SEC_IIa_06_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SEC_IIa_07_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SEC_IIa_08_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SEC_IIa_09_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SEC_IIa_10_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SEC_IIa_11_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SEC_IIa_12_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SEC_IIa_13_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SEC_IIa_14_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SEC_IIa_15_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SEC_IIa_16_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SEC_IIa_17_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SEC_IIa_18_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SEC_IIa_19_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SEC_IIa_20_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SEC_IIa_21_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SEC_IIa_22_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SEC_IIa_23_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SEC_IIa_24_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SEC_IIa_25_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SR_18197 - section 2.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SR_18197 - section 4.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SR_18197 - section 5.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SR_19379 - section 2.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SR_22455 - section 2.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SR_22455 - section 3.png
+dataset/SEC/train/SEC-Subtype_IIa/mask/SR_22455 - section 4.png
+dataset/SEC/train/SEC-Subtype_IIa/SEC_IIa_01_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/SEC_IIa_02_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/SEC_IIa_03_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/SEC_IIa_04_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/SEC_IIa_05_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/SEC_IIa_06_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/SEC_IIa_07_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/SEC_IIa_08_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/SEC_IIa_09_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/SEC_IIa_10_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/SEC_IIa_11_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/SEC_IIa_12_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/SEC_IIa_13_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/SEC_IIa_14_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/SEC_IIa_15_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/SEC_IIa_16_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/SEC_IIa_17_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/SEC_IIa_18_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/SEC_IIa_19_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/SEC_IIa_20_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/SEC_IIa_21_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/SEC_IIa_22_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/SEC_IIa_23_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/SEC_IIa_24_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/SEC_IIa_25_x2_x2.png
+dataset/SEC/train/SEC-Subtype_IIa/SR_18197 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_IIa/SR_18197 - section 4.jpg
+dataset/SEC/train/SEC-Subtype_IIa/SR_18197 - section 5.jpg
+dataset/SEC/train/SEC-Subtype_IIa/SR_19379 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_IIa/SR_22455 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_IIa/SR_22455 - section 3.jpg
+dataset/SEC/train/SEC-Subtype_IIa/SR_22455 - section 4.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/10863 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/10863 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/13216 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/13216 - section 3.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/139043 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/139043 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/139043 - section 3.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/139043 - section 4.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/139043 - section 5.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/141888 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/141888 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/16927 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/16927 - section 3.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/19718 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/19718 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/19718 - section 3.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/23835 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/23835 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/26599 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/26599 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/27385 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/mask/10863 - section 1.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/10863 - section 2.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/13216 - section 1.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/13216 - section 3.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/139043 - section 1.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/139043 - section 2.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/139043 - section 3.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/139043 - section 4.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/139043 - section 5.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/141888 - section 1.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/141888 - section 2.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/16927 - section 2.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/16927 - section 3.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/19718 - section 1.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/19718 - section 2.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/19718 - section 3.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/23835 - section 1.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/23835 - section 2.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/26599 - section 1.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/26599 - section 2.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/27385 - section 2.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/SR_10237 - section 1.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/SR_10237 - section 2.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/SR_10237 - section 3.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/SR_11459 - section 2.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/SR_11459 - section 3.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/SR_11459 - section 4.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/SR_11459 - section 5.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/SR_17853 - section 2.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/SR_17853 - section 3.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/SR_17853 - section 4.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/SR_17853 - section 5.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/SR_17853 - section 6.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/SR_17853 - section 7.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/SR_21423 - section 1.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/SR_21423 - section 2.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/SR_21423 - section 3.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/SR_21423 - section 4.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/SR_27340 - section 1.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/SR_27340 - section 2.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/SR_27340 - section 3.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/SR_27340 - section 4.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/SR_8765 - section 1.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/SR_8765 - section 2.png
+dataset/SEC/train/SEC-Subtype_IIIa/mask/SR_8765 - section 3.png
+dataset/SEC/train/SEC-Subtype_IIIa/SR_10237 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/SR_10237 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/SR_10237 - section 3.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/SR_11459 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/SR_11459 - section 3.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/SR_11459 - section 4.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/SR_11459 - section 5.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/SR_17853 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/SR_17853 - section 3.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/SR_17853 - section 4.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/SR_17853 - section 5.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/SR_17853 - section 6.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/SR_17853 - section 7.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/SR_21423 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/SR_21423 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/SR_21423 - section 3.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/SR_21423 - section 4.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/SR_27340 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/SR_27340 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/SR_27340 - section 3.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/SR_27340 - section 4.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/SR_8765 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/SR_8765 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_IIIa/SR_8765 - section 3.jpg
+dataset/SEC/train/SEC-Subtype_IVc/10186 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_IVc/10186 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_IVc/10186 - section 3.jpg
+dataset/SEC/train/SEC-Subtype_IVc/10958 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_IVc/10958 - section 3.jpg
+dataset/SEC/train/SEC-Subtype_IVc/10959 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_IVc/10959 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_IVc/13149 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_IVc/13149 - section 3.jpg
+dataset/SEC/train/SEC-Subtype_IVc/13275 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_IVc/13275 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_IVc/14624 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_IVc/14624 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_IVc/29182 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_IVc/5904 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_IVc/5904 - section 3.jpg
+dataset/SEC/train/SEC-Subtype_IVc/7041 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_IVc/8353 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_IVc/8353 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_IVc/mask/10186 - section 1.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/10186 - section 2.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/10186 - section 3.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/10958 - section 2.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/10958 - section 3.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/10959 - section 1.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/10959 - section 2.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/13149 - section 2.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/13149 - section 3.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/13275 - section 1.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/13275 - section 2.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/14624 - section 1.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/14624 - section 2.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/29182 - section 2.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/5904 - section 2.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/5904 - section 3.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/7041 - section 2.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/8353 - section 1.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/8353 - section 2.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/SEC_IVc_01_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/SEC_IVc_02_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/SEC_IVc_03_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/SEC_IVc_04_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/SEC_IVc_05_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/SEC_IVc_06_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/SEC_IVc_07_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/SEC_IVc_08_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/SEC_IVc_09_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/SEC_IVc_10_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/SEC_IVc_11_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/SEC_IVc_12_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/SEC_IVc_13_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/SEC_IVc_14_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/SEC_IVc_15_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/SEC_IVc_16_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/SEC_IVc_17_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/SEC_IVc_18_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/SEC_IVc_19_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/SEC_IVc_20_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/SEC_IVc_21_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/SEC_IVc_22_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/SEC_IVc_23_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/SEC_IVc_24_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/SEC_IVc_25_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/mask/SEC_IVc_26_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/SEC_IVc_01_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/SEC_IVc_02_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/SEC_IVc_03_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/SEC_IVc_04_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/SEC_IVc_05_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/SEC_IVc_06_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/SEC_IVc_07_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/SEC_IVc_08_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/SEC_IVc_09_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/SEC_IVc_10_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/SEC_IVc_11_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/SEC_IVc_12_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/SEC_IVc_13_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/SEC_IVc_14_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/SEC_IVc_15_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/SEC_IVc_16_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/SEC_IVc_17_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/SEC_IVc_18_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/SEC_IVc_19_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/SEC_IVc_20_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/SEC_IVc_21_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/SEC_IVc_22_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/SEC_IVc_23_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/SEC_IVc_24_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/SEC_IVc_25_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVc/SEC_IVc_26_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/Endo_SEC_IVd_02_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/Endo_SEC_IVd_03_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/Endo_SEC_IVd_04_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/Endo_SEC_IVd_05_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/Endo_SEC_IVd_06_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/Endo_SEC_IVd_07_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/Endo_SEC_IVd_08_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/Endo_SEC_IVd_09_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/Endo_SEC_IVd_10_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/Endo_SEC_IVd_11_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/Endo_SEC_IVd_12_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/Endo_SEC_IVd_13_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/Endo_SEC_IVd_14_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/Endo_SEC_IVd_15_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/Endo_SEC_IVd_16_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/Endo_SEC_IVd_17_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/Endo_SEC_IVd_18_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/Endo_SEC_IVd_19_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/Endo_SEC_IVd_20_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/Endo_SEC_IVd_21_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/Endo_SEC_IVd_02_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/Endo_SEC_IVd_03_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/Endo_SEC_IVd_04_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/Endo_SEC_IVd_05_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/Endo_SEC_IVd_06_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/Endo_SEC_IVd_07_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/Endo_SEC_IVd_08_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/Endo_SEC_IVd_09_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/Endo_SEC_IVd_10_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/Endo_SEC_IVd_11_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/Endo_SEC_IVd_12_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/Endo_SEC_IVd_13_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/Endo_SEC_IVd_14_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/Endo_SEC_IVd_15_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/Endo_SEC_IVd_16_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/Endo_SEC_IVd_17_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/Endo_SEC_IVd_18_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/Endo_SEC_IVd_19_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/Endo_SEC_IVd_20_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/Endo_SEC_IVd_21_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/SEC_IVd_01_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/SEC_IVd_02_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/SEC_IVd_03_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/SEC_IVd_04_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/SEC_IVd_05_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/SEC_IVd_06_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/SEC_IVd_07_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/SEC_IVd_08_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/SEC_IVd_09_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/SEC_IVd_10_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/SEC_IVd_11_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/SEC_IVd_12_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/SEC_IVd_13_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/SEC_IVd_14_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/SEC_IVd_15_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/SEC_IVd_16_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/SEC_IVd_17_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/SEC_IVd_18_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/SEC_IVd_19_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/SEC_IVd_20_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/SEC_IVd_21_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/SEC_IVd_22_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/SEC_IVd_23_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/SEC_IVd_24_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/mask/SEC_IVd_25_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/SEC_IVd_01_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/SEC_IVd_02_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/SEC_IVd_03_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/SEC_IVd_04_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/SEC_IVd_05_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/SEC_IVd_06_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/SEC_IVd_07_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/SEC_IVd_08_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/SEC_IVd_09_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/SEC_IVd_10_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/SEC_IVd_11_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/SEC_IVd_12_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/SEC_IVd_13_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/SEC_IVd_14_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/SEC_IVd_15_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/SEC_IVd_16_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/SEC_IVd_17_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/SEC_IVd_18_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/SEC_IVd_19_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/SEC_IVd_20_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/SEC_IVd_21_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/SEC_IVd_22_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/SEC_IVd_23_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/SEC_IVd_24_x4_x4.png
+dataset/SEC/train/SEC-Subtype_IVd/SEC_IVd_25_x4_x4.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SEC_Va_01_x2_x2.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SEC_Va_02_x2_x2.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_10538 - section 2.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_10538 - section 3.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_12319 - section 1.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_12319 - section 2.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_12319 - section 3.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_13016 - section 2.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_14213 - section 1.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_14213 - section 2.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_14213 - section 3.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_14421 - section 2.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_14421 - section 3.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_14421 - section 4.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_14820 - section 2.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_14820 - section 3.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_14820 - section 4.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_14820 - section 5.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_17060 - section 1.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_17060 - section 2.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_17899 - section 1.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_17899 - section 2.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_17899 - section 3.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_17899 - section 4.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_17899 - section 5.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_18853 - section 1.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_18853 - section 2.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_18853 - section 3.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_21028 - section 1.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_21028 - section 2.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_21028 - section 3.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_23135 - section 1.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_23135 - section 2.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_23135 - section 3.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_25363 - section 1.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_25363 - section 2.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_27108 - section 1.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_27108 - section 2.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_27108 - section 3.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_27108 - section 4.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_28766 - section 1.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_28766 - section 2.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_3597 - section 2.png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_7588 - section 3 .png
+dataset/SEC/train/SEC-Subtype_Va/mask/SR_7588 - section 4.png
+dataset/SEC/train/SEC-Subtype_Va/SEC_Va_01_x2_x2.png
+dataset/SEC/train/SEC-Subtype_Va/SEC_Va_02_x2_x2.png
+dataset/SEC/train/SEC-Subtype_Va/SR_10538 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_10538 - section 3.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_12319 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_12319 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_12319 - section 3.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_13016 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_14213 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_14213 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_14213 - section 3.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_14421 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_14421 - section 3.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_14421 - section 4.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_14820 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_14820 - section 3.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_14820 - section 4.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_14820 - section 5.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_17060 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_17060 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_17899 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_17899 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_17899 - section 3.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_17899 - section 4.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_17899 - section 5.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_18853 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_18853 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_18853 - section 3.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_21028 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_21028 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_21028 - section 3.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_23135 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_23135 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_23135 - section 3.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_25363 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_25363 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_27108 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_27108 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_27108 - section 3.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_27108 - section 4.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_28766 - section 1.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_28766 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_3597 - section 2.jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_7588 - section 3 .jpg
+dataset/SEC/train/SEC-Subtype_Va/SR_7588 - section 4.jpg
+dataset/SUR/test/SUR-Subtype_Ia/26560 - surface 1.jpg
+dataset/SUR/test/SUR-Subtype_Ia/27218 - surface 1.jpg
+dataset/SUR/test/SUR-Subtype_Ia/27671 - surface 1.jpg
+dataset/SUR/test/SUR-Subtype_Ia/28585 - surface 1.jpg
+dataset/SUR/test/SUR-Subtype_Ia/28778 - surface 1.jpg
+dataset/SUR/test/SUR-Subtype_Ia/mask/26560 - surface 1.png
+dataset/SUR/test/SUR-Subtype_Ia/mask/27218 - surface 1.png
+dataset/SUR/test/SUR-Subtype_Ia/mask/27671 - surface 1.png
+dataset/SUR/test/SUR-Subtype_Ia/mask/28585 - surface 1.png
+dataset/SUR/test/SUR-Subtype_Ia/mask/28778 - surface 1.png
+dataset/SUR/test/SUR-Subtype_IIa/mask/SR_19379 - surface 1.png
+dataset/SUR/test/SUR-Subtype_IIa/mask/SR_21810 - surface 1.png
+dataset/SUR/test/SUR-Subtype_IIa/mask/SR_21810 - surface 5.png
+dataset/SUR/test/SUR-Subtype_IIa/mask/SR_23811 - surface 1.png
+dataset/SUR/test/SUR-Subtype_IIa/mask/SR_SUR_IIa_01.png
+dataset/SUR/test/SUR-Subtype_IIa/SR_19379 - surface 1.jpg
+dataset/SUR/test/SUR-Subtype_IIa/SR_21810 - surface 1.jpg
+dataset/SUR/test/SUR-Subtype_IIa/SR_21810 - surface 5.jpg
+dataset/SUR/test/SUR-Subtype_IIa/SR_23811 - surface 1.jpg
+dataset/SUR/test/SUR-Subtype_IIa/SR_SUR_IIa_01.jpg
+dataset/SUR/test/SUR-Subtype_IIIa/14222 - surface 3.jpg
+dataset/SUR/test/SUR-Subtype_IIIa/mask/14222 - surface 3.png
+dataset/SUR/test/SUR-Subtype_IIIa/mask/SR_17853 - surface 2.png
+dataset/SUR/test/SUR-Subtype_IIIa/mask/SR_4263 - surface 3.png
+dataset/SUR/test/SUR-Subtype_IIIa/mask/SR_6109 - surface 1.png
+dataset/SUR/test/SUR-Subtype_IIIa/mask/SR_8765 - surface 6.png
+dataset/SUR/test/SUR-Subtype_IIIa/SR_17853 - surface 2.jpg
+dataset/SUR/test/SUR-Subtype_IIIa/SR_4263 - surface 3.jpg
+dataset/SUR/test/SUR-Subtype_IIIa/SR_6109 - surface 1.jpg
+dataset/SUR/test/SUR-Subtype_IIIa/SR_8765 - surface 6.jpg
+dataset/SUR/test/SUR-Subtype_IVc/10113 - surface 1.jpg
+dataset/SUR/test/SUR-Subtype_IVc/10391 - surface 1.jpg
+dataset/SUR/test/SUR-Subtype_IVc/14624 - surface 1.jpg
+dataset/SUR/test/SUR-Subtype_IVc/7041 - surface 1.jpg
+dataset/SUR/test/SUR-Subtype_IVc/9278 - surface 1.jpg
+dataset/SUR/test/SUR-Subtype_IVc/mask/10113 - surface 1.png
+dataset/SUR/test/SUR-Subtype_IVc/mask/10391 - surface 1.png
+dataset/SUR/test/SUR-Subtype_IVc/mask/14624 - surface 1.png
+dataset/SUR/test/SUR-Subtype_IVc/mask/7041 - surface 1.png
+dataset/SUR/test/SUR-Subtype_IVc/mask/9278 - surface 1.png
+dataset/SUR/test/SUR-Subtype_IVd/34256 - surface 1.jpg
+dataset/SUR/test/SUR-Subtype_IVd/35019 - surface 1.jpg
+dataset/SUR/test/SUR-Subtype_IVd/35424 - surface 1.jpg
+dataset/SUR/test/SUR-Subtype_IVd/36068 - surface 1.jpg
+dataset/SUR/test/SUR-Subtype_IVd/36214 - surface 1.jpg
+dataset/SUR/test/SUR-Subtype_IVd/mask/34256 - surface 1.png
+dataset/SUR/test/SUR-Subtype_IVd/mask/35019 - surface 1.png
+dataset/SUR/test/SUR-Subtype_IVd/mask/35424 - surface 1.png
+dataset/SUR/test/SUR-Subtype_IVd/mask/36068 - surface 1.png
+dataset/SUR/test/SUR-Subtype_IVd/mask/36214 - surface 1.png
+dataset/SUR/test/SUR-Subtype_Va/mask/SR_10538 - surface 1.png
+dataset/SUR/test/SUR-Subtype_Va/mask/SR_14213 - surface 1.png
+dataset/SUR/test/SUR-Subtype_Va/mask/SR_3597 - surface 1.png
+dataset/SUR/test/SUR-Subtype_Va/mask/SR_4066 - surface 1.png
+dataset/SUR/test/SUR-Subtype_Va/mask/SR_7588 - surface 1.png
+dataset/SUR/test/SUR-Subtype_Va/SR_10538 - surface 1.jpg
+dataset/SUR/test/SUR-Subtype_Va/SR_14213 - surface 1.jpg
+dataset/SUR/test/SUR-Subtype_Va/SR_3597 - surface 1.jpg
+dataset/SUR/test/SUR-Subtype_Va/SR_4066 - surface 1.jpg
+dataset/SUR/test/SUR-Subtype_Va/SR_7588 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_Ia/17965 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_Ia/17965 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Ia/17965 - surface 3.jpg
+dataset/SUR/train/SUR-Subtype_Ia/17965 - surface 4.jpg
+dataset/SUR/train/SUR-Subtype_Ia/19882 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_Ia/19882 - surface 3.jpg
+dataset/SUR/train/SUR-Subtype_Ia/19882 - surface 4.jpg
+dataset/SUR/train/SUR-Subtype_Ia/21146 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_Ia/21146 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Ia/22407 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_Ia/22407 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Ia/22407 - surface 3.jpg
+dataset/SUR/train/SUR-Subtype_Ia/22407 - surface 4.jpg
+dataset/SUR/train/SUR-Subtype_Ia/23099 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_Ia/23099 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Ia/23802 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_Ia/23802 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Ia/24994 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_Ia/24994 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Ia/24994 - surface 3.jpg
+dataset/SUR/train/SUR-Subtype_Ia/24994 - surface 4.jpg
+dataset/SUR/train/SUR-Subtype_Ia/25239 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_Ia/25239 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Ia/25962 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_Ia/25962 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Ia/26319 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_Ia/26319 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Ia/26487 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_Ia/5093 - surface.jpg
+dataset/SUR/train/SUR-Subtype_Ia/5700 - surface.jpg
+dataset/SUR/train/SUR-Subtype_Ia/5700 - surface2.jpg
+dataset/SUR/train/SUR-Subtype_Ia/6536 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Ia/6536 - Surface1.jpg
+dataset/SUR/train/SUR-Subtype_Ia/7125 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Ia/7125 - surface 3.jpg
+dataset/SUR/train/SUR-Subtype_Ia/7125 - surface 4.jpg
+dataset/SUR/train/SUR-Subtype_Ia/7806 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Ia/7806 - surface1.jpg
+dataset/SUR/train/SUR-Subtype_Ia/8234 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_Ia/8234 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Ia/9625 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_Ia/9625 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Ia/9625 - surface 3.jpg
+dataset/SUR/train/SUR-Subtype_Ia/9996 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_Ia/9996 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Ia/mask/17965 - surface 1.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/17965 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/17965 - surface 3.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/17965 - surface 4.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/19882 - surface 1.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/19882 - surface 3.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/19882 - surface 4.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/21146 - surface 1.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/21146 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/22407 - surface 1.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/22407 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/22407 - surface 3.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/22407 - surface 4.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/23099 - surface 1.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/23099 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/23802 - surface 1.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/23802 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/24994 - surface 1.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/24994 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/24994 - surface 3.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/24994 - surface 4.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/25239 - surface 1.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/25239 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/25962 - surface 1.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/25962 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/26319 - surface 1.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/26319 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/26487 - surface 1.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/5093 - surface.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/5700 - surface.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/5700 - surface2.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/6536 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/6536 - Surface1.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/7125 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/7125 - surface 3.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/7125 - surface 4.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/7806 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/7806 - surface1.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/8234 - surface 1.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/8234 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/9625 - surface 1.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/9625 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/9625 - surface 3.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/9996 - surface 1.png
+dataset/SUR/train/SUR-Subtype_Ia/mask/9996 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IIa/Endo_SUR_IIa_01_x4.png
+dataset/SUR/train/SUR-Subtype_IIa/Endo_SUR_IIa_02_x4.png
+dataset/SUR/train/SUR-Subtype_IIa/Endo_SUR_IIa_03_x4.png
+dataset/SUR/train/SUR-Subtype_IIa/Endo_SUR_IIa_04_x4.png
+dataset/SUR/train/SUR-Subtype_IIa/Endo_SUR_IIa_05_x4.png
+dataset/SUR/train/SUR-Subtype_IIa/Endo_SUR_IIa_06_x4.png
+dataset/SUR/train/SUR-Subtype_IIa/Endo_SUR_IIa_07_x4.png
+dataset/SUR/train/SUR-Subtype_IIa/Endo_SUR_IIa_08_x4.png
+dataset/SUR/train/SUR-Subtype_IIa/Endo_SUR_IIa_09_x4.png
+dataset/SUR/train/SUR-Subtype_IIa/Endo_SUR_IIa_10_x4.png
+dataset/SUR/train/SUR-Subtype_IIa/Endo_SUR_IIa_11_x4.png
+dataset/SUR/train/SUR-Subtype_IIa/Endo_SUR_IIa_12_x4.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/Endo_SUR_IIa_01_x4.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/Endo_SUR_IIa_02_x4.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/Endo_SUR_IIa_03_x4.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/Endo_SUR_IIa_04_x4.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/Endo_SUR_IIa_05_x4.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/Endo_SUR_IIa_06_x4.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/Endo_SUR_IIa_07_x4.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/Endo_SUR_IIa_08_x4.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/Endo_SUR_IIa_09_x4.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/Endo_SUR_IIa_10_x4.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/Endo_SUR_IIa_11_x4.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/Endo_SUR_IIa_12_x4.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SR_19379 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SR_19379 - surface 3.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SR_19379 - surface 4.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SR_21810 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SR_21810 - surface 3.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SR_21810 - surface 4.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SR_21810 - surface 6.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SR_21810 - surface 7.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SR_23811 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SUR_IIa_02_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SUR_IIa_03_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SUR_IIa_04_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SUR_IIa_05_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SUR_IIa_06_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SUR_IIa_07_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SUR_IIa_08_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SUR_IIa_09_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SUR_IIa_10_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SUR_IIa_11_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SUR_IIa_12_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SUR_IIa_13_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SUR_IIa_14_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SUR_IIa_15_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SUR_IIa_16_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SUR_IIa_17_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SUR_IIa_18_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SUR_IIa_19_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SUR_IIa_20_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SUR_IIa_21_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SUR_IIa_22_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SUR_IIa_23_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SUR_IIa_24_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/mask/SUR_IIa_25_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/SR_19379 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IIa/SR_19379 - surface 3.jpg
+dataset/SUR/train/SUR-Subtype_IIa/SR_19379 - surface 4.jpg
+dataset/SUR/train/SUR-Subtype_IIa/SR_21810 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IIa/SR_21810 - surface 3.jpg
+dataset/SUR/train/SUR-Subtype_IIa/SR_21810 - surface 4.jpg
+dataset/SUR/train/SUR-Subtype_IIa/SR_21810 - surface 6.jpg
+dataset/SUR/train/SUR-Subtype_IIa/SR_21810 - surface 7.jpg
+dataset/SUR/train/SUR-Subtype_IIa/SR_23811 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IIa/SUR_IIa_02_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/SUR_IIa_03_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/SUR_IIa_04_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/SUR_IIa_05_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/SUR_IIa_06_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/SUR_IIa_07_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/SUR_IIa_08_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/SUR_IIa_09_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/SUR_IIa_10_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/SUR_IIa_11_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/SUR_IIa_12_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/SUR_IIa_13_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/SUR_IIa_14_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/SUR_IIa_15_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/SUR_IIa_16_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/SUR_IIa_17_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/SUR_IIa_18_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/SUR_IIa_19_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/SUR_IIa_20_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/SUR_IIa_21_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/SUR_IIa_22_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/SUR_IIa_23_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/SUR_IIa_24_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIa/SUR_IIa_25_x2_x2.png
+dataset/SUR/train/SUR-Subtype_IIIa/10863 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/13216 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/13216 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/13961 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/141888 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/141888 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/14222 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/14222 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/16927 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/16927 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/19718 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/19718 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/26599 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/26599 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/28385 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/28385 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/mask/10863 - surface 1.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/13216 - surface 1.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/13216 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/13961 - surface 1.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/141888 - surface 1.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/141888 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/14222 - surface 1.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/14222 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/16927 - surface 1.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/16927 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/19718 - surface 1.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/19718 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/26599 - surface 1.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/26599 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/28385 - surface 1.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/28385 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/SR_10237 - surface 1.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/SR_10237 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/SR_10237 - surface 3.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/SR_10431 - surface 3.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/SR_11459 - surface 1.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/SR_11459 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/SR_11537 - surface 1.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/SR_11537 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/SR_17853 - surface 1.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/SR_4070 - surface 1.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/SR_4070 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/SR_4070 - surface 3.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/SR_4070 - surface 4.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/SR_4070 - surface 5.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/SR_4263 - surface 1.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/SR_4263 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/SR_4263 - surface 4.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/SR_6109 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/SR_6109 - surface 3.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/SR_6109 - surface 4.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/SR_6109 - surface 5.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/SR_6109 - surface 6.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/SR_6109 - surface 7 .png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/SR_6109 - surface 8.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/SR_8765 - surface 1.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/SR_8765 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/SR_8765 - surface 3.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/SR_8765 - surface 4.png
+dataset/SUR/train/SUR-Subtype_IIIa/mask/SR_8765 - surface 5.png
+dataset/SUR/train/SUR-Subtype_IIIa/SR_10237 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/SR_10237 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/SR_10237 - surface 3.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/SR_10431 - surface 3.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/SR_11459 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/SR_11459 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/SR_11537 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/SR_11537 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/SR_17853 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/SR_4070 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/SR_4070 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/SR_4070 - surface 3.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/SR_4070 - surface 4.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/SR_4070 - surface 5.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/SR_4263 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/SR_4263 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/SR_4263 - surface 4.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/SR_6109 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/SR_6109 - surface 3.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/SR_6109 - surface 4.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/SR_6109 - surface 5.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/SR_6109 - surface 6.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/SR_6109 - surface 7 .jpg
+dataset/SUR/train/SUR-Subtype_IIIa/SR_6109 - surface 8.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/SR_8765 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/SR_8765 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/SR_8765 - surface 3.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/SR_8765 - surface 4.jpg
+dataset/SUR/train/SUR-Subtype_IIIa/SR_8765 - surface 5.jpg
+dataset/SUR/train/SUR-Subtype_IVc/10113 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IVc/10113 - surface 3.jpg
+dataset/SUR/train/SUR-Subtype_IVc/10113 - surface 4.jpg
+dataset/SUR/train/SUR-Subtype_IVc/10186 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_IVc/10186 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IVc/10186 - surface 3.jpg
+dataset/SUR/train/SUR-Subtype_IVc/10391 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IVc/10391 - surface 3.jpg
+dataset/SUR/train/SUR-Subtype_IVc/10391 - surface 4.jpg
+dataset/SUR/train/SUR-Subtype_IVc/10391 - surface 5.jpg
+dataset/SUR/train/SUR-Subtype_IVc/10391 - surface 6.jpg
+dataset/SUR/train/SUR-Subtype_IVc/10570 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_IVc/10570 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IVc/10570 - surface 3.jpg
+dataset/SUR/train/SUR-Subtype_IVc/10958 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_IVc/10958 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IVc/10959 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_IVc/10959 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IVc/11080 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_IVc/13149 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_IVc/13149 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IVc/14624 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IVc/29181 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_IVc/29181 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IVc/29181 - surface 3.jpg
+dataset/SUR/train/SUR-Subtype_IVc/29182 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_IVc/29182 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IVc/5904 - sufrace 1.jpg
+dataset/SUR/train/SUR-Subtype_IVc/5904 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IVc/7041 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IVc/7041 - surface 3.jpg
+dataset/SUR/train/SUR-Subtype_IVc/7041 - surface 4.jpg
+dataset/SUR/train/SUR-Subtype_IVc/7041 - surface 5.jpg
+dataset/SUR/train/SUR-Subtype_IVc/7041 - surface 6.jpg
+dataset/SUR/train/SUR-Subtype_IVc/7041 - surface 7.jpg
+dataset/SUR/train/SUR-Subtype_IVc/8353 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_IVc/8353 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IVc/9278 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IVc/mask/10113 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/10113 - surface 3.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/10113 - surface 4.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/10186 - surface 1.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/10186 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/10186 - surface 3.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/10391 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/10391 - surface 3.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/10391 - surface 4.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/10391 - surface 5.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/10391 - surface 6.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/10570 - surface 1.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/10570 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/10570 - surface 3.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/10958 - surface 1.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/10958 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/10959 - surface 1.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/10959 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/11080 - surface 1.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/13149 - surface 1.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/13149 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/14624 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/29181 - surface 1.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/29181 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/29181 - surface 3.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/29182 - surface 1.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/29182 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/5904 - sufrace 1.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/5904 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/7041 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/7041 - surface 3.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/7041 - surface 4.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/7041 - surface 5.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/7041 - surface 6.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/7041 - surface 7.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/8353 - surface 1.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/8353 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/9278 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/SUR_IVc_01_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/SUR_IVc_03_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/SUR_IVc_08_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/SUR_IVc_09_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/SUR_IVc_10_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/SUR_IVc_11_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVc/mask/SUR_IVc_12_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVc/SUR_IVc_01_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVc/SUR_IVc_03_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVc/SUR_IVc_08_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVc/SUR_IVc_09_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVc/SUR_IVc_10_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVc/SUR_IVc_11_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVc/SUR_IVc_12_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/133022 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_IVd/133022 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IVd/34256 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IVd/34256 - surface 3.jpg
+dataset/SUR/train/SUR-Subtype_IVd/34256 - surface 4.jpg
+dataset/SUR/train/SUR-Subtype_IVd/35019 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IVd/35019 - surface 3.jpg
+dataset/SUR/train/SUR-Subtype_IVd/35019 - surface 4.jpg
+dataset/SUR/train/SUR-Subtype_IVd/35424 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IVd/36068 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IVd/36068 - surface 3.jpg
+dataset/SUR/train/SUR-Subtype_IVd/36068 - surface 4.jpg
+dataset/SUR/train/SUR-Subtype_IVd/36214 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IVd/36214 - surface 3.jpg
+dataset/SUR/train/SUR-Subtype_IVd/36257 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_IVd/36257 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_IVd/36257 - surface 3.jpg
+dataset/SUR/train/SUR-Subtype_IVd/36257 - surface 4.jpg
+dataset/SUR/train/SUR-Subtype_IVd/Endo_SUR_IVd_01_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/Endo_SUR_IVd_02_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/133022 - surface 1.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/133022 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/34256 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/34256 - surface 3.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/34256 - surface 4.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/35019 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/35019 - surface 3.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/35019 - surface 4.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/35424 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/36068 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/36068 - surface 3.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/36068 - surface 4.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/36214 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/36214 - surface 3.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/36257 - surface 1.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/36257 - surface 2.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/36257 - surface 3.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/36257 - surface 4.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/Endo_SUR_IVd_01_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/Endo_SUR_IVd_02_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/SUR_IVd_01_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/SUR_IVd_02_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/SUR_IVd_03_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/SUR_IVd_04_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/SUR_IVd_05_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/SUR_IVd_06_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/SUR_IVd_07_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/SUR_IVd_08_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/SUR_IVd_09_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/SUR_IVd_10_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/SUR_IVd_11_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/SUR_IVd_12_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/SUR_IVd_13_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/SUR_IVd_14_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/SUR_IVd_15_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/SUR_IVd_16_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/SUR_IVd_17_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/SUR_IVd_18_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/SUR_IVd_19_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/SUR_IVd_20_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/SUR_IVd_21_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/SUR_IVd_22_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/SUR_IVd_23_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/SUR_IVd_24_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/mask/SUR_IVd_25_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/SUR_IVd_01_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/SUR_IVd_02_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/SUR_IVd_03_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/SUR_IVd_04_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/SUR_IVd_05_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/SUR_IVd_06_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/SUR_IVd_07_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/SUR_IVd_08_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/SUR_IVd_09_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/SUR_IVd_10_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/SUR_IVd_11_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/SUR_IVd_12_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/SUR_IVd_13_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/SUR_IVd_14_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/SUR_IVd_15_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/SUR_IVd_16_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/SUR_IVd_17_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/SUR_IVd_18_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/SUR_IVd_19_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/SUR_IVd_20_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/SUR_IVd_21_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/SUR_IVd_22_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/SUR_IVd_23_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/SUR_IVd_24_x4_x4.png
+dataset/SUR/train/SUR-Subtype_IVd/SUR_IVd_25_x4_x4.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_10538 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_10538 - surface 3.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_10538 - surface 4.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_12319 - surface 1.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_12319 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_13873 - surface 1.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_13873 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_14213 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_14421 - surface 1.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_17060 - surface 1.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_17060 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_17899 - surface 1.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_17899 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_17899 - surface 3.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_18853 - surface 1.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_18853 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_19239 - surface 1.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_19239 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_19239 - surface 3.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_21028 - surface 1.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_21028 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_23021 - surface 1.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_23021 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_23021 - surface 3.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_23135 - surface 1.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_23135 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_23281 - surface 1.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_23821 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_25322 - surface 1.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_25322 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_25363 - surface 1.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_25363 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_28642 - surface 1.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_28642 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_28766 - surface 1.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_28766 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_3597 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_3597 - surface 3.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_4066 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_4066 - surface 3.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_4066 - surface 4.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SR_7588 - surface 2.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SUR_Va_01_x2_x2.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SUR_Va_15_x2_x2.png
+dataset/SUR/train/SUR-Subtype_Va/mask/SUR_Va_25_x2_x2.png
+dataset/SUR/train/SUR-Subtype_Va/SR_10538 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_10538 - surface 3.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_10538 - surface 4.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_12319 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_12319 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_13873 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_13873 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_14213 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_14421 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_17060 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_17060 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_17899 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_17899 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_17899 - surface 3.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_18853 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_18853 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_19239 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_19239 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_19239 - surface 3.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_21028 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_21028 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_23021 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_23021 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_23021 - surface 3.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_23135 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_23135 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_23281 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_23821 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_25322 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_25322 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_25363 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_25363 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_28642 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_28642 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_28766 - surface 1.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_28766 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_3597 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_3597 - surface 3.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_4066 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_4066 - surface 3.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_4066 - surface 4.jpg
+dataset/SUR/train/SUR-Subtype_Va/SR_7588 - surface 2.jpg
+dataset/SUR/train/SUR-Subtype_Va/SUR_Va_01_x2_x2.png
+dataset/SUR/train/SUR-Subtype_Va/SUR_Va_15_x2_x2.png
+dataset/SUR/train/SUR-Subtype_Va/SUR_Va_25_x2_x2.png
+utils/check_quick.py
+utils/super_resolution.py
+utils/utils_num_images.py
+utils/utils_sifid.py
+utils/utils_sizehw.py
+utils/utils_verify_mask.py
+utils/utils_visualize50.py
+notebooks/SR_crop_patch.ipynb
