@@ -1,10 +1,9 @@
-#make_crop_patch.py
+#crop_patch.py
 
 import os 
 import pandas as pd
 
 from utils_make_patch_auto import make_patch_auto
-from utils_functions import estimate_num_images
 
 # To set parameters: 
 # **************************************************************************************************** 
@@ -17,17 +16,16 @@ req_patch_total = 200
 print('Reading files from subtype folder ...')
 # **************************************************************************************************** 
 # For section dataset
-dir_root = '/Users/franciscolt/Documents/GitHub/utils-crop_patch/dataset/SEC/test/'
+dir_root = '.../dataset/SEC/'
 dir_subtypes = ["SEC-Subtype_Ia", "SEC-Subtype_IIa","SEC-Subtype_IIIa","SEC-Subtype_IVc","SEC-Subtype_IVd","SEC-Subtype_Va"]
 
 """
 # For surface dataset
-dir_root = '/Users/franciscolt/Documents/GitHub/utils-crop_patch/dataset/SUR/'
+dir_root = '.../dataset/SUR/'
 dir_subtypes = ["SUR-Subtype_Ia", "SUR-Subtype_IIa", "SUR-Subtype_IIIa", "SUR-Subtype_IVc", "SUR-Subtype_IVd", "SUR-Subtype_Va"]
 """
 
 # For testing with one subtype only
-
 #dir_subtypes = ["SEC-Subtype_Ia"]
 
 for subtype in dir_subtypes:
