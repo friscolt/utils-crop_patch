@@ -1211,3 +1211,125 @@ utils/utils_sizehw.py
 utils/utils_verify_mask.py
 utils/utils_visualize50.py
 notebooks/SR_crop_patch.ipynb
+dataset/SUR/test/SUR-Subtype_Va/SR_3597 - surface 2.jpg
+dataset/SUR/test/SUR-Subtype_Va/SR_28766 - surface 1.jpg
+dataset/SUR/test/SUR-Subtype_Va/SR_23135 - surface 2.jpg
+dataset/SUR/test/SUR-Subtype_Va/SR_17899 - surface 1.jpg
+dataset/SUR/test/SUR-Subtype_Va/SR_10538 - surface 3.jpg
+dataset/SUR/test/SUR-Subtype_Va/mask/SR_3597 - surface 2.png
+dataset/SUR/test/SUR-Subtype_Va/mask/SR_28766 - surface 1.png
+dataset/SUR/test/SUR-Subtype_Va/mask/SR_23135 - surface 2.png
+dataset/SUR/test/SUR-Subtype_Va/mask/SR_17899 - surface 1.png
+dataset/SUR/test/SUR-Subtype_Va/mask/SR_10538 - surface 3.png
+dataset/SUR/test/SUR-Subtype_IVd/mask/36257 - surface 3.png
+dataset/SUR/test/SUR-Subtype_IVd/mask/36214 - surface 2.png
+dataset/SUR/test/SUR-Subtype_IVd/mask/36068 - surface 3.png
+dataset/SUR/test/SUR-Subtype_IVd/mask/35019 - surface 3.png
+dataset/SUR/test/SUR-Subtype_IVd/mask/34256 - surface 2.png
+dataset/SUR/test/SUR-Subtype_IVd/36257 - surface 3.jpg
+dataset/SUR/test/SUR-Subtype_IVd/36214 - surface 2.jpg
+dataset/SUR/test/SUR-Subtype_IVd/36068 - surface 3.jpg
+dataset/SUR/test/SUR-Subtype_IVd/35019 - surface 3.jpg
+dataset/SUR/test/SUR-Subtype_IVd/34256 - surface 2.jpg
+dataset/SUR/test/SUR-Subtype_IVc/mask/7041 - surface 6.png
+dataset/SUR/test/SUR-Subtype_IVc/mask/13149 - surface 2.png
+dataset/SUR/test/SUR-Subtype_IVc/mask/10570 - surface 3.png
+dataset/SUR/test/SUR-Subtype_IVc/mask/10391 - surface 6.png
+dataset/SUR/test/SUR-Subtype_IVc/mask/10113 - surface 3.png
+dataset/SUR/test/SUR-Subtype_IVc/7041 - surface 6.jpg
+dataset/SUR/test/SUR-Subtype_IVc/13149 - surface 2.jpg
+dataset/SUR/test/SUR-Subtype_IVc/10570 - surface 3.jpg
+dataset/SUR/test/SUR-Subtype_IVc/10391 - surface 6.jpg
+dataset/SUR/test/SUR-Subtype_IVc/10113 - surface 3.jpg
+dataset/SUR/test/SUR-Subtype_IIIa/SR_17853 - surface 1.jpg
+dataset/SUR/test/SUR-Subtype_IIIa/mask/SR_17853 - surface 1.png
+dataset/SUR/test/SUR-Subtype_IIIa/mask/26599 - surface 2.png
+dataset/SUR/test/SUR-Subtype_IIIa/mask/16927 - surface 2.png
+dataset/SUR/test/SUR-Subtype_IIIa/mask/141888 - surface 1.png
+dataset/SUR/test/SUR-Subtype_IIIa/mask/13216 - surface 1.png
+dataset/SUR/test/SUR-Subtype_IIIa/26599 - surface 2.jpg
+dataset/SUR/test/SUR-Subtype_IIIa/16927 - surface 2.jpg
+dataset/SUR/test/SUR-Subtype_IIIa/141888 - surface 1.jpg
+dataset/SUR/test/SUR-Subtype_IIIa/13216 - surface 1.jpg
+dataset/SUR/test/SUR-Subtype_IIa/SR_21810 - surface 6.jpg
+dataset/SUR/test/SUR-Subtype_IIa/SR_21810 - surface 4.jpg
+dataset/SUR/test/SUR-Subtype_IIa/SR_21810 - surface 2.jpg
+dataset/SUR/test/SUR-Subtype_IIa/SR_19379 - surface 3.jpg
+dataset/SUR/test/SUR-Subtype_IIa/SR_19379 - surface 2.jpg
+dataset/SUR/test/SUR-Subtype_IIa/mask/SR_21810 - surface 6.png
+dataset/SUR/test/SUR-Subtype_IIa/mask/SR_21810 - surface 4.png
+dataset/SUR/test/SUR-Subtype_IIa/mask/SR_21810 - surface 2.png
+dataset/SUR/test/SUR-Subtype_IIa/mask/SR_19379 - surface 3.png
+dataset/SUR/test/SUR-Subtype_IIa/mask/SR_19379 - surface 2.png
+dataset/SUR/test/SUR-Subtype_Ia/mask/7806 - surface1.png
+dataset/SUR/test/SUR-Subtype_Ia/mask/7125 - surface 2.png
+dataset/SUR/test/SUR-Subtype_Ia/mask/6536 - Surface1.png
+dataset/SUR/test/SUR-Subtype_Ia/mask/25962 - surface 2.png
+dataset/SUR/test/SUR-Subtype_Ia/mask/17965 - surface 4.png
+dataset/SUR/test/SUR-Subtype_Ia/7806 - surface1.jpg
+dataset/SUR/test/SUR-Subtype_Ia/7125 - surface 2.jpg
+dataset/SUR/test/SUR-Subtype_Ia/6536 - Surface1.jpg
+dataset/SUR/test/SUR-Subtype_Ia/25962 - surface 2.jpg
+dataset/SUR/test/SUR-Subtype_Ia/17965 - surface 4.jpg
+dataset/SEC/test/SEC-Subtype_Va/SR_27108 - section 3.jpg
+dataset/SEC/test/SEC-Subtype_Va/SR_23135 - section 2.jpg
+dataset/SEC/test/SEC-Subtype_Va/SR_21028 - section 1.jpg
+dataset/SEC/test/SEC-Subtype_Va/SR_14820 - section 2.jpg
+dataset/SEC/test/SEC-Subtype_Va/SR_13016 - section 2.jpg
+dataset/SEC/test/SEC-Subtype_Va/mask/SR_27108 - section 3.png
+dataset/SEC/test/SEC-Subtype_Va/mask/SR_23135 - section 2.png
+dataset/SEC/test/SEC-Subtype_Va/mask/SR_21028 - section 1.png
+dataset/SEC/test/SEC-Subtype_Va/mask/SR_14820 - section 2.png
+dataset/SEC/test/SEC-Subtype_Va/mask/SR_13016 - section 2.png
+dataset/SEC/test/SEC-Subtype_IVd/SEC_IVd_25_x4_x4.png
+dataset/SEC/test/SEC-Subtype_IVd/SEC_IVd_12_x4_x4.png
+dataset/SEC/test/SEC-Subtype_IVd/SEC_IVd_05_x4_x4.png
+dataset/SEC/test/SEC-Subtype_IVd/mask/SEC_IVd_25_x4_x4.png
+dataset/SEC/test/SEC-Subtype_IVd/mask/SEC_IVd_12_x4_x4.png
+dataset/SEC/test/SEC-Subtype_IVd/mask/SEC_IVd_05_x4_x4.png
+dataset/SEC/test/SEC-Subtype_IVd/mask/Endo_SEC_IVd_18_x4.png
+dataset/SEC/test/SEC-Subtype_IVd/mask/Endo_SEC_IVd_07_x4.png
+dataset/SEC/test/SEC-Subtype_IVd/Endo_SEC_IVd_18_x4.png
+dataset/SEC/test/SEC-Subtype_IVd/Endo_SEC_IVd_07_x4.png
+dataset/SEC/test/SEC-Subtype_IVc/mask/8353 - section 2.png
+dataset/SEC/test/SEC-Subtype_IVc/mask/14624 - section 2.png
+dataset/SEC/test/SEC-Subtype_IVc/mask/13149 - section 2.png
+dataset/SEC/test/SEC-Subtype_IVc/mask/10958 - section 2.png
+dataset/SEC/test/SEC-Subtype_IVc/mask/10186 - section 2.png
+dataset/SEC/test/SEC-Subtype_IVc/8353 - section 2.jpg
+dataset/SEC/test/SEC-Subtype_IVc/14624 - section 2.jpg
+dataset/SEC/test/SEC-Subtype_IVc/13149 - section 2.jpg
+dataset/SEC/test/SEC-Subtype_IVc/10958 - section 2.jpg
+dataset/SEC/test/SEC-Subtype_IVc/10186 - section 2.jpg
+dataset/SEC/test/SEC-Subtype_IIIa/SR_27340 - section 2.jpg
+dataset/SEC/test/SEC-Subtype_IIIa/SR_17853 - section 7.jpg
+dataset/SEC/test/SEC-Subtype_IIIa/SR_17853 - section 4.jpg
+dataset/SEC/test/SEC-Subtype_IIIa/mask/SR_27340 - section 2.png
+dataset/SEC/test/SEC-Subtype_IIIa/mask/SR_17853 - section 7.png
+dataset/SEC/test/SEC-Subtype_IIIa/mask/SR_17853 - section 4.png
+dataset/SEC/test/SEC-Subtype_IIIa/mask/139043 - section 5.png
+dataset/SEC/test/SEC-Subtype_IIIa/mask/139043 - section 1.png
+dataset/SEC/test/SEC-Subtype_IIIa/139043 - section 5.jpg
+dataset/SEC/test/SEC-Subtype_IIIa/139043 - section 1.jpg
+dataset/SEC/test/SEC-Subtype_IIa/SR_22455 - section 4.jpg
+dataset/SEC/test/SEC-Subtype_IIa/SR_22455 - section 2.jpg
+dataset/SEC/test/SEC-Subtype_IIa/SR_18197 - section 5.jpg
+dataset/SEC/test/SEC-Subtype_IIa/SR_18197 - section 4.jpg
+dataset/SEC/test/SEC-Subtype_IIa/SR_18197 - section 2.jpg
+dataset/SEC/test/SEC-Subtype_IIa/mask/SR_22455 - section 4.png
+dataset/SEC/test/SEC-Subtype_IIa/mask/SR_22455 - section 2.png
+dataset/SEC/test/SEC-Subtype_IIa/mask/SR_18197 - section 5.png
+dataset/SEC/test/SEC-Subtype_IIa/mask/SR_18197 - section 4.png
+dataset/SEC/test/SEC-Subtype_IIa/mask/SR_18197 - section 2.png
+dataset/SEC/test/SEC-Subtype_Ia/mask/9996 - section 1.png
+dataset/SEC/test/SEC-Subtype_Ia/mask/9625 - section 1.png
+dataset/SEC/test/SEC-Subtype_Ia/mask/6536 - section.png
+dataset/SEC/test/SEC-Subtype_Ia/mask/26319 - section 2.png
+dataset/SEC/test/SEC-Subtype_Ia/mask/26319 - section 1.png
+dataset/SEC/test/SEC-Subtype_Ia/9996 - section 1.jpg
+dataset/SEC/test/SEC-Subtype_Ia/9625 - section 1.jpg
+dataset/SEC/test/SEC-Subtype_Ia/6536 - section.jpg
+dataset/SEC/test/SEC-Subtype_Ia/26319 - section 2.jpg
+dataset/SEC/test/SEC-Subtype_Ia/26319 - section 1.jpg
+utils_visualize50.py
+utils_sampling.py

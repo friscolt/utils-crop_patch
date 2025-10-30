@@ -15,11 +15,13 @@ req_patch_total = 200
 # To read files from subtype folder: 
 print('Reading files from subtype folder ...')
 # **************************************************************************************************** 
-# For section dataset
-dir_root = '.../dataset/SEC/'
-dir_subtypes = ["SEC-Subtype_Ia", "SEC-Subtype_IIa","SEC-Subtype_IIIa","SEC-Subtype_IVc","SEC-Subtype_IVd","SEC-Subtype_Va"]
 
-"""
+# For section dataset
+dir_root = '/mnt/dataset/SUR/test/'
+dir_subtypes = ["SUR-Subtype_Ia", "SUR-Subtype_IIa","SUR-Subtype_IIIa","SUR-Subtype_IVc","SUR-Subtype_IVd","SUR-Subtype_Va"]
+
+
+""" 
 # For surface dataset
 dir_root = '.../dataset/SUR/'
 dir_subtypes = ["SUR-Subtype_Ia", "SUR-Subtype_IIa", "SUR-Subtype_IIIa", "SUR-Subtype_IVc", "SUR-Subtype_IVd", "SUR-Subtype_Va"]

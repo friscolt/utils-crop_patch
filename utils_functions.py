@@ -6,17 +6,19 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
+
 def estimate_num_images(dir_folder):
-    list_images = os.listdir(dir_folder)
-    #print(list_images)
+    """
+    Counts the number of image files in a folder.
+    Supports common image extensions: jpg, jpeg, png, bmp, tif, tiff, gif.
+    """
+    valid_ext = ('.jpg', '.jpeg', '.png', '.bmp', '.tif', '.tiff', '.gif')
     cont_images = 0
 
-    for name_image in list_images:
-        #print(name_image[-4:])
-        if(name_image[-4:] == '.jpg'): #### <---- Change here if images have different format
-            #print(name_image)
-            cont_images = cont_images + 1
-    #print(cont_images)
+    for name_image in os.listdir(dir_folder):
+        if os.path.isfile(os.path.join(dir_folder, name_image)) and name_image.lower().strip().endswith(valid_ext):
+            cont_images += 1
+
     return cont_images
 
 
@@ -47,7 +49,7 @@ def percentage(patch_mask):
 
 
 
-
+"""
 def estimate_num_images(dir_folder):
     est_list_images = os.listdir(dir_folder)
     #print(est_list_images)
@@ -60,7 +62,7 @@ def estimate_num_images(dir_folder):
             est_cont_images = est_cont_images + 1
     #print(est_cont_images)
     return est_cont_images
-
+"""
 
 
 
